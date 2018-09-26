@@ -10,10 +10,9 @@ $connection = new \PhpAmqpLib\Connection\AMQPStreamConnection(
 );
 
 $printCallback = function($msg){
-    echo '[x] received: ' . $msg . PHP_EOL;
+    echo '[x] received: ' . $msg->body . PHP_EOL;
 };
 
 
 $channel = $connection->channel();
-$channel->queue_declare();
 $arguments = array_slice($argv, 1);

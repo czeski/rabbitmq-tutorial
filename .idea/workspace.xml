@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f897a56d-a18c-42ab-80bc-c02bab07e38a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/c1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic/p1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/direct/c.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/direct/p.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fanout/c.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fanout/p.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/metadata.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/topic/c.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/topic/p.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -116,7 +102,7 @@
       <path value="$PROJECT_DIR$/vendor/composer" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="49" />
     <option name="y" value="-4" />
     <option name="width" value="1871" />
@@ -176,16 +162,15 @@
       <option name="presentableId" value="Default" />
       <updated>1537855299066</updated>
       <workItem from="1537855300466" duration="15903000" />
-      <workItem from="1537946158357" duration="706000" />
+      <workItem from="1537946158357" duration="1331000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16609000" />
+    <option name="totallyTimeSpent" value="17234000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="-11" width="1873" height="1092" extended-state="7" />
-    <editor active="true" />
+    <frame x="48" y="-11" width="1873" height="1092" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.33753425" />
       <window_info anchor="bottom" id="TODO" order="6" />
